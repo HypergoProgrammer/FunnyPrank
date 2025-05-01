@@ -1,0 +1,16 @@
+# Ignore typical system files
+*.log
+*.tmp
+*.bak
+*.DS_Store
+Thumbs.db
+
+# Ignore compiled EXE
+*.exe
+
+# Ignore video files (optional, if hosting elsewhere or using Git LFS)
+*.mp4
+
+# Node / VSCode / etc. (if used)
+node_modules/
+.vscode/
